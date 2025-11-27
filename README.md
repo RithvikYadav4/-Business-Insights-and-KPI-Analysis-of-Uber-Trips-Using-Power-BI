@@ -12,8 +12,8 @@
 1.Designed and implemented an interactive Power BI dashboard for Uber trip analysis, focusing on business
 critical KPIs and visual insights.
 
- 2 Defined, calculated, and visualized key metrics, including Total Bookings (~103.7K trips), Total Booking
- Value (~$1.6M), Average Booking Value ($15), Total Trip Distance (~349K miles), Average Trip Distance (~3
+ 2 Defined, calculated, and visualized key metrics, including Total Bookings (103.7K trips), Total Booking
+ Value ($1.6M), Average Booking Value ($15), Total Trip Distance (349K miles), Average Trip Distance (3
  miles), and Average Trip Time (16 minutes).
  
  3.Transformed raw trip data using Power Query, DAX, and data modeling, ensuring clean and accurate
